@@ -1,0 +1,12 @@
+h1
+{
+  background-color: blanchedalmond;
+  color: red;
+}
+#one:hover 
+{
+  cursor: pointer;
+  background-color: black;
+  color: blueviolet;
+  box-shadow: yellow;
+}
